@@ -1,0 +1,12 @@
+git commands
+mkdir {directory name}
+//Place your directory or files which we want to commit
+cd {directory name}
+git init
+git status
+git add {directory name}
+git commit -m "{message}"
+git config --global user.username vikasbarde
+git remote add origing https://github.com/vikasbarde/firstRepo.git
+git remote push origin master
+
